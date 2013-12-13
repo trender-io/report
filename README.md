@@ -1,6 +1,6 @@
 report
 ======
 
-Project writeup, presentation, and code notebooks.
+Project writeup and sample data.
 
-[Mining Trending Topics From Social Sources](http://nbviewer.ipython.org/url/raw.github.com/trender-io/report/master/keywords.ipynb)
+[Project Overview Notebook](http://nbviewer.ipython.org/url/raw.github.com/trender-io/report/master/trender-io.ipynb)
